@@ -1,0 +1,29 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: "Operator Mono";
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #130f40;
+}
+body .btn {
+  padding: 1em 2em;
+  background-color: #c7ecee;
+  color: #be2edd;
+  border-radius: 0.3em;
+  font-weight: 600;
+  font-size: 20px;
+}
+body h1 {
+  opacity: 0;
+  margin-top: 1em;
+  color: #2ed573;
+}/*# sourceMappingURL=style.css.map */
